@@ -1,0 +1,9 @@
+print hello
+ls
+print
+ls-f
+print
+ls|wc|figlet
+print
+all
+exit

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/eggshell.dir/variableManager.c.o CMakeFiles/eggshell.dir/parser.c.o CMakeFiles/eggshell.dir/linenoise.c.o CMakeFiles/eggshell.dir/eggshell.c.o CMakeFiles/eggshell.dir/commandsManager.c.o CMakeFiles/eggshell.dir/processManager.c.o  -o eggshell 
